@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,decamelize",
+    "logging_enabled": "false",
+    "name": "decamelizeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "decamelizeSmokeTest.js"
+}
